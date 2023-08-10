@@ -1,42 +1,47 @@
-# Template for short-and-sweet lightning talks
+---
+marp: true
+title: Short and sweet intro to Testcontainers
+description: Short and sweet intro to Testcontainers
+theme: uncover
+paginate: true
+_paginate: false
 
-## Inspiration/background
+---
 
-* https://www.chessable.com/chess-openings/s/short%20sweet
-* https://en.wikipedia.org/wiki/Lightning_talk
+# Short and sweet
 
-## Why
+## Intro to Testcontainers
 
-**If** you want to 
+---
 
-* share a use-case/problem solution from your project
-* share experience with a technology/tool/framework
-* dive (deeper) into new topics
-* learn by doing
+# Intro, reason & background
 
-**then** a lightning talk is what you need!
+Integration tests done right
 
-The goal of the short-and-sweet talk is not to provide an extensive teach-in experience - it's about knowledge sharing and inspiration to dive deeper later.
+---
 
-## What
+# Agenda
 
-* slides (Markdown/AsciiDoc)
-  * you might want to use Marp (https://marpit.marp.app) in VSCode + Marp extension
-    * see also https://github.com/yhatt/marp-cli-example
-* code
-* script/helper snippers to speed up the demo
+* Testcontainers Java
+* Testcontainers in Spring Boot
+    * Testcontainers in Spring Boot 3.1
+* Testcontainers in Quarkus
+* Moby Ryuk
+* Testcontainers & other programming languages
+    * Go
 
+---
 
-## When
+# Use case 1
 
-TBD, most probably at lunch time aka 'Brown Bag Meeting' - simply announce and/or book the next available slot.
+---
 
-Overall duration should be around 15-30 mins to reserve enough time to come to the meat of the talk **and** to have 5-10 mins for Q&A
+# Use case 2
 
-## How
+---
 
-* prepare the [What](##What)
-  * based on this template
-  * let https://github.com/OpenValue-D fork it
-* book the [When](##When)
-* and have fun
+# Demo
+
+---
+
+# Q&A
