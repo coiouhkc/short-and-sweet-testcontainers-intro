@@ -1,7 +1,6 @@
 package me.abratuhi.demo;
 
 import org.testcontainers.containers.GenericContainer;
-import org.testcontainers.containers.wait.strategy.Wait;
 
 public class Main {
     public static void main(String[] args) {
